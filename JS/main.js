@@ -5,8 +5,6 @@ function clicou(){
 function redirecionar(){
 	window.open("https://github.com/karlacorrea/aula_Javascrip1");
 
-	
-
 }
 
 //var idade = prompt("qual a sua idade?");
